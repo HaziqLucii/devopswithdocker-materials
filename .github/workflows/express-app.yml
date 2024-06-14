@@ -23,4 +23,3 @@ jobs:
         with:
           context: express-app/
           push: true
-          tags: devopsdockeruh/express-app:latest
