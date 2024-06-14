@@ -23,4 +23,4 @@ jobs:
         with:
           context: express-app/
           push: true
-          tags: yuta/express-app:latest
+          tags: devopsdockeruh/express-app:latest
